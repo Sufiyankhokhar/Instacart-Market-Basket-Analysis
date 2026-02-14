@@ -42,7 +42,7 @@ This project aims to:
 - User Purchase History
 
 # How to Run the Project
-git clone https://github.com/Sufiyankhokhar/Instacart-Market-Basket-Analysis.git
+git clone https://github.com/Sufiyankhokhar/InstacartMarketBasketAnalysis.git
 cd Instacart-Market-Basket-Analysis
 pip install -r requirements.txt
 python analysis.py
